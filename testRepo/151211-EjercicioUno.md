@@ -1,16 +1,16 @@
 ## Segundo
 
-*Alfa
-*Beta
-*Gama
+* Alfa
+* Beta
+* Gama
 
 ### Tercero
 
-*Primero
-*Segundo
-*Tercero
+* Primero
+* Segundo
+* Tercero
 
 ## Prueba
 
 * ¿ Regresó ?
-** ¿ Y esto funcionará ? 
+** ¿ Y esto funcionará ? o tal vez no
